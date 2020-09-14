@@ -1,0 +1,2 @@
+Main-Class: spoon
+Class-Path: json-20200518.jar
