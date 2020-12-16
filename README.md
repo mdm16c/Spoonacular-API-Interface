@@ -25,7 +25,7 @@ This project is unique in that while the Spoonacular API is very powerful, it do
 ## Usage Walkthrough
 * With the **Search for a Recipe** option selected, the user can search anything from the example that is shown to [more advanced searches with optional parameters](https://spoonacular.com/food-api/docs#Search-Recipes-Complex)
 * With the **Get a Random Recipe** option selected, the user does not need to pass in any parameters as it is completely random
-* With the **Get a Recipe based on Nutrients** option selected, the user can set the minimum or maximum of several different common nutrients for 1 serving of the suggested recipe
+* With the **Get a Recipe based on Nutrients** option selected, the user can set the minimum or maximum of several different common nutrients for 1 serving of the suggested recipe, or for no preference, they can leave the field at 0
 * With the **Get a Recipe based on Ingredients** option selected, the user can pass in a comma-separated list of the ingredients they have on hand already. The API will prioritize these ingredients and attempt to minimize any other ingredients that may be needed for a recipe.
 * When the user is ready, they can click the **Get Recipe!** button which will search for a recipe that most similarly matches the parameters and open the link to it in their default browser
 
