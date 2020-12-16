@@ -4,7 +4,7 @@ A simple, user friendly Java GUI for the Spoonacular REST API
 ## Motivation
 I started this project in an effort to really expand my knowledge of what was possible with REST API calls, and I also was curious to see how Java GUIs work. I was not sure exactly what I wanted to do until one night when I was making dinner and only had a few ingredients. I was not sure what I could make out of them, so I did some research into APIs with this functionality and found Spoonacular. I regularly use this app to determine what to eat just to keep some variety in my cooking.
 
-## Code style
+## Code Style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Example Usage
